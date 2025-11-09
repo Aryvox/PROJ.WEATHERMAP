@@ -20,9 +20,6 @@ Mini application to demonstrate good development practices: KISS, DRY, YAGNI, s√
 
 ## Conventions
 - Langue: anglais dans le code
-- Branches: `feat/`, `fix/`, `chore/`
-- Commit messages: `type(scope): short message` (ex: `feat(api): add weather endpoint`)
-
 
 ## Quality
 - Linter: `npm run lint`
